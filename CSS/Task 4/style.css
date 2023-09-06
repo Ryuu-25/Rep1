@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.box {
+  height: 60vh;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Main {
+  display: flex;
+  width: 50px;
+  height: 50px;
+  margin-bottom: 10px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  align-items: center;
+  text-decoration: none;
+  color: white;
+}
+
+.Main a {
+  display: block;
+  transition: 1s;
+  transition-property: transform;
+}
+
+.FirstBox {background-color: #04a96d;}
+.SecondBox {background-color: #2196f3;}
+.ThirdBox {background-color: #f44236;}
+.FourthBox {background-color: #555555;}
+.Main:hover {width: 60px;}
+
+.para-box {
+  display: inline-block;
+  margin-top: 92px;
+  margin-left: 60px;
+}
+
+h2 {padding-bottom: 15px;}
