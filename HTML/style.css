@@ -2,7 +2,7 @@ table {
   border: 1px solid black;
   width: 350px;
   height: 230px;
-  background-color: solid white;
+  background-color: #87CEEB;
 }
 
 td,
@@ -49,7 +49,7 @@ footer {
 
 button {
   padding: 20px 30px;
-  background-color: solid black;
+  background-color: #87CEEB;
   font-weight: bold;
   font-size: 20px;
 }
