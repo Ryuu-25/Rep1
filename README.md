@@ -1,2 +1,2 @@
 # Rep1
-MERN Tasks
+HTML and CSS Tasks
